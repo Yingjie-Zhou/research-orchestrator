@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "task_id": null,
+  "work_status": "NEEDS_CONTEXT",
+  "summary": null,
+  "artifacts": [],
+  "validation": {
+    "status": "not_run",
+    "evidence_refs": []
+  },
+  "concerns": [],
+  "missing_inputs": [],
+  "scientific_identity_changed": null,
+  "review": {
+    "status": "not_reviewed",
+    "report_ref": null,
+    "accepted_scope": []
+  },
+  "costs": {
+    "cpu_s": null,
+    "native_wall_s": null,
+    "model_cost": null
+  }
+}

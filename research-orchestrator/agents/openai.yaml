@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研工作流主控"
+  short_description: "围绕科学目标组织持续研究、集成交付、独立审查与预算停止规则"
+  default_prompt: "使用 $research-orchestrator 推进这个科研项目：先核对已有状态和证据，选择最短的可验证闭环，按授权调度并交付可复现结果。"

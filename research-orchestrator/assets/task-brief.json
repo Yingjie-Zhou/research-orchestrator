@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "task_id": null,
+  "task_kind": "research",
+  "objective": null,
+  "read_first": [],
+  "allowed_write_roots": [],
+  "expected_outputs": [],
+  "done_criteria": [],
+  "global_constraints": [],
+  "responsibility": {
+    "execution_owner": null,
+    "delivery_receiver": null,
+    "acceptance_owner": null,
+    "review_owner": null,
+    "escalate_to": null,
+    "routine_decisions": [],
+    "escalate_when": []
+  },
+  "model": "gpt-6.1-sol",
+  "effort": "xhigh",
+  "execution_plan_ref": null,
+  "report_path": null,
+  "result_path": null
+}

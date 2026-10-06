@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "objective": null,
+  "objective_complete": false,
+  "author_defaults": {
+    "model": "gpt-6.1-sol",
+    "effort": "xhigh"
+  },
+  "tasks": [],
+  "support_queue": []
+}

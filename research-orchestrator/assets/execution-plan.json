@@ -1,0 +1,10 @@
+{
+  "task_id": null,
+  "outcome": null,
+  "scope_ref": null,
+  "limits_ref": null,
+  "authority_ref": null,
+  "steps": ["实施与必要依赖", "自检与原允许的有限验证", "同问题成组修复", "冻结完整产物及失败/未知", "直接交付消费者和原审查员"],
+  "preauthorized_continuations": [],
+  "direct_delivery": []
+}
